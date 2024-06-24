@@ -11,7 +11,7 @@ function checkAnswer(answer) {
         }
     } else {
         // Resposta incorreta
-        window.location.href = "Menu.html";
+        window.location.href = "../index.html";
     }
 }
 
